@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "minimatch": "^3.0.4",
-    "yarn": "^1.9.4"
+    "yarn": "^1.21.1"
   }
 }
