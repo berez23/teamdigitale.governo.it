@@ -7,7 +7,7 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "botkit": "^0.6.6",
+    "botkit": "^0.6.11",
     "circleci": "^0.3.3"
   },
   "devDependencies": {
